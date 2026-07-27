@@ -68,9 +68,9 @@ Building SaaS products, full stack applications, and internal tools with a focus
 
 ## GitHub Statistics
 
-<p>
+<!-- <p>
   <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
-</p>
+</p> -->
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhellokitty&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
