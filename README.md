@@ -1,71 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:4F46E5,100:7C3AED&height=220&section=header&text=Muhammad%20Galid%20Avero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/banner.svg" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+practical%2C+reliable+software;Exploring+AI+%26+Data+Science;Turning+ideas+into+deployed+products" alt="Typing SVG" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=unVeroz007&label=Profile%20Views&color=818CF8&style=flat-square" />&nbsp;
+<img src="https://img.shields.io/github/followers/unVeroz007?label=Followers&style=flat-square&color=A78BFA&labelColor=1E1B4B" />&nbsp;
+<img src="https://img.shields.io/badge/Padang%2C%20Indonesia-1E1B4B?style=flat-square&logo=googlemaps&logoColor=818CF8" />
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=firefox&logoColor=white)](https://galid.infokand23.my.id/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-galid-avero-753575287/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mgalidav.r)
-[![Email](https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgalidvaero05@gmail.com)
+<a href="https://galid.infokand23.my.id/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-galid-avero-753575287/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.instagram.com/mgalidav.r"><img src="https://img.shields.io/badge/Instagram-7C3AED?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="mailto:mgalidvaero05@gmail.com"><img src="https://img.shields.io/badge/Email-312E81?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
 
 ### 👋 Tentang Saya
 
-Saya **Muhammad Galid Avero**, mahasiswa Informatika di Padang, Indonesia, dengan minat besar pada **Software Engineering, Artificial Intelligence, dan Data Science**. Saya senang mengubah masalah nyata menjadi solusi teknis yang terukur — mulai dari merancang arsitektur, melatih model machine learning, hingga men-deploy produk yang benar-benar dipakai orang. Rasa ingin tahu saya mendorong saya untuk terus mengulik teknologi baru dan memperdalam kemampuan di dunia development modern.
+Saya **Muhammad Galid Avero**, mahasiswa Informatika di Padang, Indonesia, dengan fokus pada **Software Engineering**, **Artificial Intelligence**, dan **Data Science**. Saya senang mengubah masalah nyata menjadi solusi teknis yang terukur — mulai dari merancang arsitektur, melatih model machine learning, hingga men-deploy produk yang benar-benar dipakai orang. Rasa ingin tahu mendorong saya untuk terus mengulik teknologi baru dan memperdalam kemampuan di dunia development modern.
 
 ```yaml
-saat_ini:
-  magang: "Divisi Teknologi & Digitalisasi, Bank Nagari"
-  proyek: "Sistem Project Management — mencakup seluruh alur kerja divisi"
-  fokus_belajar: ["AI/ML Engineering", "Software Architecture", "Data Pipelines"]
-  tujuan: "Menjadi Software Engineer profesional"
+whoami:
+  role: "Informatics Student & Full Stack Developer"
+  current:
+    internship: "Divisi Teknologi & Digitalisasi, Bank Nagari"
+    building: "Sistem Project Management (end-to-end workflow)"
+  learning: ["AI/ML Engineering", "Software Architecture", "Data Pipelines"]
+  goal: "Menjadi Software Engineer profesional"
+  status: "open to collaboration ✨"
 ```
 
----
+<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**Languages & Markup**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,dart&theme=dark" />
 
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=E76F00" />
-<img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=0175C2" />
+<br/><br/>
 
 **Frameworks & Libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,flutter&theme=dark" />
 
-<img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-<img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=02569B" />
+<br/><br/>
 
 **Tools & Version Control**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<br/><br/>
 
-**Design & AI-Assisted Dev**
-
-<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=google&logoColor=4285F4" />
-<img src="https://img.shields.io/badge/Kiro-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+**AI-Assisted Development**
+<br/>
+<img src="https://img.shields.io/badge/Antigravity-1E1B4B?style=flat-square&logo=googlegemini&logoColor=818CF8" />
+<img src="https://img.shields.io/badge/Kiro-1E1B4B?style=flat-square&logo=amazonaws&logoColor=A78BFA" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
 
 ### 🚀 Proyek Unggulan
 
@@ -73,44 +71,52 @@ saat_ini:
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Sistem Analisis Emosi**
-<br/><sub>Big Data Project · Des 2025</sub>
+#### 🧠 Sistem Analisis Emosi
+<sub>Big Data Project · Des 2025</sub>
 
 Membangun dan men-deploy aplikasi web analisis emosi berbasis teks secara mandiri menggunakan **Streamlit**, dengan model **Linear SVM** mencapai akurasi **94,43%** dari **393.822 sampel data**. Menangani seluruh pipeline: preprocessing, training, evaluasi, hingga deployment.
+
+`Python` `Streamlit` `Scikit-learn` `NLP`
 
 </td>
 <td width="50%" valign="top">
 
-**🌦️ Aplikasi Prediksi Cuaca**
-<br/><sub>Big Data Project · Nov–Des 2025</sub>
+#### 🌦️ Aplikasi Prediksi Cuaca
+<sub>Big Data Project · Nov–Des 2025</sub>
 
 Dikembangkan bersama tim 5 orang menggunakan **Random Forest Regressor** pada dataset **96.453 baris** (12 variabel), menghasilkan **MAE 0,023 · RMSE 0,096 · R² 0,998**. Berkontribusi pada preprocessing, evaluasi model, integrasi front-end, dan deployment.
+
+`Python` `Random Forest` `Data Pipeline`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🏦 Sistem Project Management — Bank Nagari**
-<br/><sub>Proyek Magang · Ongoing</sub>
+#### 🏦 Sistem Project Management — Bank Nagari
+<sub>Proyek Magang · Ongoing</sub>
 
 Sedang mengembangkan sistem manajemen proyek internal yang mencakup seluruh alur kerja Divisi Teknologi & Digitalisasi, dari perencanaan hingga monitoring proyek berjalan.
+
+`Laravel` `MySQL` `Internal Tooling`
 
 </td>
 <td width="50%" valign="top">
 
-**🔬 Website Laboratorium**
-<br/><sub>Lab. Pemrograman & Informatika · Sep–Nov 2024</sub>
+#### 🔬 Website Laboratorium
+<sub>Lab. Pemrograman & Informatika · Sep–Nov 2024</sub>
 
-Mengembangkan website resmi laboratorium menggunakan **HTML, CSS, dan Bootstrap 5**, mengintegrasikan informasi kegiatan fakultas serta memelihara situs untuk kebutuhan berkelanjutan bersama tim lab.
+Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasikan informasi kegiatan serta memelihara situs untuk kebutuhan berkelanjutan bersama tim lab.
+
+`HTML` `CSS` `Bootstrap 5`
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
 
-### 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=unVeroz007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=818CF8&text_color=E5E7EB" />
@@ -122,10 +128,25 @@ Mengembangkan website resmi laboratorium menggunakan **HTML, CSS, dan Bootstrap 
 </div>
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=unVeroz007&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+</div>
+
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=unVeroz007&bg_color=00000000&color=E5E7EB&line=A78BFA&point=818CF8&area=true&hide_border=true" width="100%" />
 </div>
 
----
+<!--
+🐍 BONUS: animasi ular yang "memakan" contribution graph.
+Sudah disiapkan file .github/workflows/snake.yml — setelah kamu push dan Action-nya
+berjalan sekali (otomatis atau lewat tab Actions > Run workflow), hapus komentar
+di bawah ini untuk menampilkannya:
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+-->
+
+<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
 
 <div align="center">
 
@@ -133,6 +154,6 @@ Mengembangkan website resmi laboratorium menggunakan **HTML, CSS, dan Bootstrap 
 
 Terbuka untuk kolaborasi proyek, diskusi teknologi, atau sekadar ngobrol soal AI & Data Science.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:1E3A8A&height=120&section=footer" width="100%"/>
+<sub>✨ Thanks for stopping by — semoga project berikutnya makin seru.</sub>
 
 </div>
