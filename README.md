@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/banner.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/banner.svg" width="100%" />
 
 <img src="https://komarev.com/ghpvc/?username=unVeroz007&label=Profile%20Views&color=818CF8&style=flat-square" />&nbsp;
 <img src="https://img.shields.io/github/followers/unVeroz007?label=Followers&style=flat-square&color=A78BFA&labelColor=1E1B4B" />&nbsp;
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
 
 ### 👋 Tentang Saya
 
@@ -32,7 +32,7 @@ whoami:
   status: "open to collaboration ✨"
 ```
 
-<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
 
 ### 🛠️ Tech Stack
 
@@ -63,7 +63,7 @@ whoami:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
 
 ### 🚀 Proyek Unggulan
 
@@ -114,7 +114,7 @@ Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasik
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
 
 ### 📊 GitHub Analytics
 
@@ -135,12 +135,12 @@ Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasik
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=unVeroz007&bg_color=00000000&color=E5E7EB&line=A78BFA&point=818CF8&area=true&hide_border=true" width="100%" />
 </div>
 
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
+
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
 
 <div align="center">
 
