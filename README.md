@@ -135,16 +135,10 @@ Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasik
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=unVeroz007&bg_color=00000000&color=E5E7EB&line=A78BFA&point=818CF8&area=true&hide_border=true" width="100%" />
 </div>
 
-<!--
-🐍 BONUS: animasi ular yang "memakan" contribution graph.
-Sudah disiapkan file .github/workflows/snake.yml — setelah kamu push dan Action-nya
-berjalan sekali (otomatis atau lewat tab Actions > Run workflow), hapus komentar
-di bawah ini untuk menampilkannya:
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
--->
 
 <img src="https://raw.githubusercontent.com/unVeroz007/unVeroz007/main/assets/divider.svg" width="100%" />
 
