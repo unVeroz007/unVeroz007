@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF0080,100:FF8C00&height=220&section=header&text=Muhammad%20Galid%20Avero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:4F46E5,100:7C3AED&height=220&section=header&text=Muhammad%20Galid%20Avero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+practical%2C+reliable+software;Exploring+AI+%26+Data+Science;Turning+ideas+into+deployed+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+practical%2C+reliable+software;Exploring+AI+%26+Data+Science;Turning+ideas+into+deployed+products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -113,16 +113,16 @@ Mengembangkan website resmi laboratorium menggunakan **HTML, CSS, dan Bootstrap 
 ### 📊 GitHub Statistics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=unVeroz007&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6EC7&icon_color=FF8C00&text_color=E5E7EB" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unVeroz007&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6EC7&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=unVeroz007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=818CF8&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unVeroz007&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unVeroz007&theme=radical&hide_border=true&background=00000000&ring=FF6EC7&fire=FF8C00&currStreakLabel=FF6EC7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=unVeroz007&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unVeroz007&bg_color=00000000&color=E5E7EB&line=FF6EC7&point=FF8C00&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=unVeroz007&bg_color=00000000&color=E5E7EB&line=A78BFA&point=818CF8&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -133,6 +133,6 @@ Mengembangkan website resmi laboratorium menggunakan **HTML, CSS, dan Bootstrap 
 
 Terbuka untuk kolaborasi proyek, diskusi teknologi, atau sekadar ngobrol soal AI & Data Science.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF0080,100:8E2DE2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:1E3A8A&height=120&section=footer" width="100%"/>
 
 </div>
