@@ -1,9 +1,9 @@
-# <img src="./assets/profile-banner.svg" alt="Muhammad Raja Daffa banner" width="100%" />
+# <img src="./assets/profile-banner.svg" alt="Muhammad Galid Avero" width="100%" />
 
 <!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
 <p align="center">
   <!-- <strong>Rza</strong><br /> -->
-  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder | ⛏️ Minecraft Server Developer
+  ☕ Coding Enthusiast | 🚀 AI / Data Science Enthusiast 
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   ·
   <a href="https://www.tiktok.com/@rzadaffa_">TikTok</a>
   ·
-  <a href="mailto:muhammadrajadaffa@gmail.com">Email</a>
+  <a href="mailto:mgalidavero05@gmail.com">Email</a>
 </p>
 
 ## Tech Stack
