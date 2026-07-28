@@ -1,153 +1,154 @@
+<!-- Header -->
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/banner.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:818CF8&height=220&section=header&text=Muhammad%20Galid%20Avero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://komarev.com/ghpvc/?username=unVeroz007&label=Profile%20Views&color=818CF8&style=flat-square" />&nbsp;
-<img src="https://img.shields.io/github/followers/unVeroz007?label=Followers&style=flat-square&color=A78BFA&labelColor=1E1B4B" />&nbsp;
-<img src="https://img.shields.io/badge/Padang%2C%20Indonesia-1E1B4B?style=flat-square&logo=googlemaps&logoColor=818CF8" />
+<h3 align="center">Informatics Student • Full Stack Developer • AI/Data Enthusiast</h3>
 
-<br/><br/>
+<p align="center">
+  Building modern digital products with clean architecture, thoughtful UI, and practical impact.
+</p>
 
-<a href="https://galid.infokand23.my.id/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-galid-avero-753575287/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://www.instagram.com/mgalidav.r"><img src="https://img.shields.io/badge/Instagram-7C3AED?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
-<a href="mailto:mgalidvaero05@gmail.com"><img src="https://img.shields.io/badge/Email-312E81?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://galid.infokand23.my.id/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-galid-avero-753575287/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mgalidav.r"><img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:mgalidvaero05@gmail.com"><img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
+---
 
-### 👋 Tentang Saya
+### About Me
 
-Saya **Muhammad Galid Avero**, mahasiswa Informatika di Padang, Indonesia, dengan fokus pada **Software Engineering**, **Artificial Intelligence**, dan **Data Science**. Saya senang mengubah masalah nyata menjadi solusi teknis yang terukur — mulai dari merancang arsitektur, melatih model machine learning, hingga men-deploy produk yang benar-benar dipakai orang. Rasa ingin tahu mendorong saya untuk terus mengulik teknologi baru dan memperdalam kemampuan di dunia development modern.
+I’m **Muhammad Galid Avero**, an Informatics student based in Padang, Indonesia, with a strong focus on **software engineering, AI/ML, data science, and modern web development**.
 
-```yaml
-whoami:
-  role: "Informatics Student & Full Stack Developer"
-  current:
-    internship: "Divisi Teknologi & Digitalisasi, Bank Nagari"
-    building: "Sistem Project Management (end-to-end workflow)"
-  learning: ["AI/ML Engineering", "Software Architecture", "Data Pipelines"]
-  goal: "Menjadi Software Engineer profesional"
-  status: "open to collaboration ✨"
-```
+I enjoy turning real-world problems into clean technical solutions — from system design and UI implementation to model building, deployment, and maintenance. I like working on products that are not just functional, but also polished and genuinely useful.
 
-<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
+- Currently interning at **Bank Nagari** in the Technology & Digitalization division.
+- Building an end-to-end **Project Management System** for internal workflow.
+- Interested in **AI/ML Engineering, Software Architecture, and Data Pipelines**.
+- Open to collaboration on impactful tech projects.
 
-### 🛠️ Tech Stack
+---
+
+### Tech Stack
 
 <div align="center">
 
-**Languages & Markup**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,dart&theme=dark" />
-
-<br/><br/>
-
-**Frameworks & Libraries**
-<br/>
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap,flutter&theme=dark" />
-
-<br/><br/>
-
-**Tools & Version Control**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
-
-<br/><br/>
-
-**AI-Assisted Development**
-<br/>
-<img src="https://img.shields.io/badge/Antigravity-1E1B4B?style=flat-square&logo=googlegemini&logoColor=818CF8" />
-<img src="https://img.shields.io/badge/Kiro-1E1B4B?style=flat-square&logo=amazonaws&logoColor=A78BFA" />
+| Frontend | Backend | Data / AI | Tools |
+|---|---|---|---|
+| HTML, CSS, JavaScript, Bootstrap, Flutter | PHP, Laravel, MySQL, Google Apps Script | Python, Scikit-learn, NLP, Data Analysis | Git, GitHub, VS Code, Postman, Figma |
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
+---
 
-### 🚀 Proyek Unggulan
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 Sistem Analisis Emosi
-<sub>Big Data Project · Des 2025</sub>
-
-Membangun dan men-deploy aplikasi web analisis emosi berbasis teks secara mandiri menggunakan **Streamlit**, dengan model **Linear SVM** mencapai akurasi **94,43%** dari **393.822 sampel data**. Menangani seluruh pipeline: preprocessing, training, evaluasi, hingga deployment.
-
-`Python` `Streamlit` `Scikit-learn` `NLP`
+<h4>🧠 Sistem Analisis Emosi</h4>
+<p><sub>Big Data Project · Dec 2025</sub></p>
+<p>
+Built and deployed a text-based emotion analysis web app using Streamlit and a Linear SVM model, achieving <b>94.43%</b> accuracy on <b>393,822</b> samples.
+</p>
+<p><code>Python</code> <code>Streamlit</code> <code>Scikit-learn</code> <code>NLP</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌦️ Aplikasi Prediksi Cuaca
-<sub>Big Data Project · Nov–Des 2025</sub>
-
-Dikembangkan bersama tim 5 orang menggunakan **Random Forest Regressor** pada dataset **96.453 baris** (12 variabel), menghasilkan **MAE 0,023 · RMSE 0,096 · R² 0,998**. Berkontribusi pada preprocessing, evaluasi model, integrasi front-end, dan deployment.
-
-`Python` `Random Forest` `Data Pipeline`
+<h4>🌦️ Aplikasi Prediksi Cuaca</h4>
+<p><sub>Big Data Project · Nov–Dec 2025</sub></p>
+<p>
+Developed with a team of five using Random Forest Regressor on <b>96,453</b> rows and delivered strong regression performance: <b>MAE 0.023</b>, <b>RMSE 0.096</b>, <b>R² 0.998</b>.
+</p>
+<p><code>Python</code> <code>Random Forest</code> <code>Data Pipeline</code></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏦 Sistem Project Management — Bank Nagari
-<sub>Proyek Magang · Ongoing</sub>
-
-Sedang mengembangkan sistem manajemen proyek internal yang mencakup seluruh alur kerja Divisi Teknologi & Digitalisasi, dari perencanaan hingga monitoring proyek berjalan.
-
-`Laravel` `MySQL` `Internal Tooling`
+<h4>🏦 Sistem Project Management — Bank Nagari</h4>
+<p><sub>Internship Project · Ongoing</sub></p>
+<p>
+Developing an internal project management system covering planning, execution, tracking, and reporting for the Technology & Digitalization division.
+</p>
+<p><code>Laravel</code> <code>MySQL</code> <code>Internal Tooling</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔬 Website Laboratorium
-<sub>Lab. Pemrograman & Informatika · Sep–Nov 2024</sub>
-
-Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasikan informasi kegiatan serta memelihara situs untuk kebutuhan berkelanjutan bersama tim lab.
-
-`HTML` `CSS` `Bootstrap 5`
+<h4>🔬 Website Laboratorium</h4>
+<p><sub>Lab. Pemrograman & Informatika · Sep–Nov 2024</sub></p>
+<p>
+Created the official laboratory website for faculty activities, information distribution, and ongoing maintenance with a small team.
+</p>
+<p><code>HTML</code> <code>CSS</code> <code>Bootstrap 5</code></p>
 
 </td>
 </tr>
 </table>
 
-<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
+---
 
-### 📊 GitHub Analytics
+### What I’m Focused On
+
+- Designing maintainable web applications with clean structure.
+- Improving AI/ML workflow from preprocessing to deployment.
+- Building systems that solve real operational problems.
+- Strengthening UI/UX quality and product presentation.
+
+---
+
+### GitHub Stats
 
 <div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=unVeroz007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=818CF8&text_color=E5E7EB" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unVeroz007&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB" />
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unVeroz007&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA" />
-</div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=unVeroz007&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=unVeroz007&bg_color=00000000&color=E5E7EB&line=A78BFA&point=818CF8&area=true&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-
-<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
-
-<div align="center">
-
-### 📬 Let's Connect
-
-Terbuka untuk kolaborasi proyek, diskusi teknologi, atau sekadar ngobrol soal AI & Data Science.
-
-<sub>✨ Thanks for stopping by — semoga project berikutnya makin seru.</sub>
 
 </div>
+
+---
+
+### Current Workflow
+
+```yaml
+role: "Informatics Student & Full Stack Developer"
+focus:
+  - "AI/ML Engineering"
+  - "Software Architecture"
+  - "Data Pipelines"
+  - "Modern Web Development"
+currently:
+  - "Internship at Bank Nagari"
+  - "Building a Project Management System"
+  - "Improving product quality and development speed"
+goal: "Become a professional software engineer"
+```
+
+---
+
+### Connect With Me
+
+<p align="center">
+  <a href="https://galid.infokand23.my.id/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/muhammad-galid-avero-753575287/">LinkedIn</a> •
+  <a href="https://www.instagram.com/mgalidav.r">Instagram</a> •
+  <a href="mailto:mgalidvaero05@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <i>Open to collaboration, discussion, and meaningful projects.</i>
+</p>
