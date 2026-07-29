@@ -119,8 +119,8 @@ Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasik
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=unVeroz007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=818CF8&text_color=E5E7EB" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unVeroz007&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=unVeroz007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=818CF8&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=unVeroz007&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB" />
 </div>
 
 <div align="center">
@@ -128,12 +128,13 @@ Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasik
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=unVeroz007&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://github-profile-trophy-sigma-one.vercel.app/?username=unVeroz007&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=unVeroz007&bg_color=00000000&color=E5E7EB&line=A78BFA&point=818CF8&area=true&hide_border=true" width="100%" />
 </div>
+
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@output/github-contribution-grid-snake-dark.svg" width="100%" />
