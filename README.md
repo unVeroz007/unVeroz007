@@ -128,7 +128,7 @@ Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasik
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy-sigma-one.vercel.app/?username=unVeroz007&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://github-trophies.devomb.com/?username=unVeroz007&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </div>
 
 <div align="center">
