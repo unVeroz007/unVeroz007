@@ -124,7 +124,7 @@ Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasik
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unVeroz007&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA" />
+<img src="https://streak-stats.demolab.com/?user=unVeroz007&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA" />
 </div>
 
 <div align="center">
