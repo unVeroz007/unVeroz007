@@ -34,8 +34,8 @@
     <path d="M974,12 L988,12 L988,26"/>
   </g>
 
-  <text x="147" y="63" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="800" font-style="italic" fill="#C4121C" opacity="0.8">APLIKASI PREDIKSI CUACA</text>
-  <text x="145" y="60" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="800" font-style="italic" fill="url(#titleGrad)">APLIKASI PREDIKSI CUACA</text>
+  <text x="42" y="63" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="800" font-style="italic" fill="#C4121C" opacity="0.8">APLIKASI PREDIKSI CUACA</text>
+  <text x="40" y="60" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="800" font-style="italic" fill="url(#titleGrad)">APLIKASI PREDIKSI CUACA</text>
 
   <text x="42" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#FCA5A5" letter-spacing="1">BIG DATA PROJECT · NOV–DES 2025</text>
 
