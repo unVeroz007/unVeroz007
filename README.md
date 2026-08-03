@@ -21,16 +21,7 @@
 
 Saya **Muhammad Galid Avero**, mahasiswa Informatika di Padang, Indonesia, dengan fokus pada **Software Engineering**, **Artificial Intelligence**, dan **Data Science**. Saya senang mengubah masalah nyata menjadi solusi teknis yang terukur — mulai dari merancang arsitektur, melatih model machine learning, hingga men-deploy produk yang benar-benar dipakai orang. Rasa ingin tahu mendorong saya untuk terus mengulik teknologi baru dan memperdalam kemampuan di dunia development modern.
 
-```yaml
-whoami:
-  role: "Informatics Student & Full Stack Developer"
-  current:
-    internship: "Divisi Teknologi & Digitalisasi, Bank Nagari"
-    building: "Sistem Project Management (end-to-end workflow)"
-  learning: ["AI/ML Engineering", "Software Architecture", "Data Pipelines"]
-  goal: "Menjadi Software Engineer profesional"
-  status: "open to collaboration 🕸️"
-```
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/dossier-panel.svg" width="100%" />
 
 <img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
 
@@ -71,8 +62,7 @@ whoami:
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 Sistem Analisis Emosi
-<sub>Big Data Project · Des 2025</sub>
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/project-emotion.svg" width="100%" />
 
 Membangun dan men-deploy aplikasi web analisis emosi berbasis teks secara mandiri menggunakan **Streamlit**, dengan model **Linear SVM** mencapai akurasi **94,43%** dari **393.822 sampel data**. Menangani seluruh pipeline: preprocessing, training, evaluasi, hingga deployment.
 
@@ -81,8 +71,7 @@ Membangun dan men-deploy aplikasi web analisis emosi berbasis teks secara mandir
 </td>
 <td width="50%" valign="top">
 
-#### 🌦️ Aplikasi Prediksi Cuaca
-<sub>Big Data Project · Nov–Des 2025</sub>
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/project-weather.svg" width="100%" />
 
 Dikembangkan bersama tim 5 orang menggunakan **Random Forest Regressor** pada dataset **96.453 baris** (12 variabel), menghasilkan **MAE 0,023 · RMSE 0,096 · R² 0,998**. Berkontribusi pada preprocessing, evaluasi model, integrasi front-end, dan deployment.
 
@@ -93,8 +82,7 @@ Dikembangkan bersama tim 5 orang menggunakan **Random Forest Regressor** pada da
 <tr>
 <td width="50%" valign="top">
 
-#### 🏦 Sistem Project Management — Bank Nagari
-<sub>Proyek Magang · Ongoing</sub>
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/project-banknagari.svg" width="100%" />
 
 Sedang mengembangkan sistem manajemen proyek internal yang mencakup seluruh alur kerja Divisi Teknologi & Digitalisasi, dari perencanaan hingga monitoring proyek berjalan.
 
@@ -103,8 +91,7 @@ Sedang mengembangkan sistem manajemen proyek internal yang mencakup seluruh alur
 </td>
 <td width="50%" valign="top">
 
-#### 🔬 Website Laboratorium
-<sub>Lab. Pemrograman & Informatika · Sep–Nov 2024</sub>
+<img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/project-lab.svg" width="100%" />
 
 Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasikan informasi kegiatan serta memelihara situs untuk kebutuhan berkelanjutan bersama tim lab.
 
@@ -135,10 +122,10 @@ Mengembangkan website resmi laboratorium untuk kegiatan fakultas, mengintegrasik
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=unVeroz007&bg_color=00000000&color=E5E7EB&line=E4212B&point=38BDF8&area=true&hide_border=true" width="100%" />
 </div>
 
-
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
+
 
 <img src="https://cdn.jsdelivr.net/gh/unVeroz007/unVeroz007@main/assets/divider.svg" width="100%" />
 
