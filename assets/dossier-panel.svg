@@ -1,0 +1,81 @@
+<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060C"/>
+      <stop offset="55%" stop-color="#0B0F22"/>
+      <stop offset="100%" stop-color="#160A16"/>
+    </linearGradient>
+    <linearGradient id="tabGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4D4D"/>
+      <stop offset="100%" stop-color="#C4121C"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="bigBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <pattern id="halftone" width="13" height="13" patternUnits="userSpaceOnUse">
+      <circle cx="6.5" cy="6.5" r="1.2" fill="#38BDF8" opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="260" rx="10" fill="url(#bgGrad)"/>
+  <circle cx="960" cy="30" r="110" fill="#2563EB" opacity="0.22" filter="url(#bigBlur)"/>
+  <circle cx="40" cy="240" r="110" fill="#DC2626" opacity="0.18" filter="url(#bigBlur)"/>
+  <rect x="760" y="0" width="240" height="120" fill="url(#halftone)" opacity="0.5"/>
+
+  <!-- corner HUD brackets -->
+  <g stroke="#38BDF8" stroke-width="2" opacity="0.8" fill="none">
+    <path d="M14,32 L14,14 L32,14"/>
+    <path d="M968,14 L986,14 L986,32"/>
+    <path d="M986,228 L986,246 L968,246"/>
+    <path d="M32,246 L14,246 L14,228"/>
+  </g>
+
+  <!-- scanlines -->
+  <g stroke="#38BDF8" stroke-width="0.5" opacity="0.06">
+    <line x1="20" y1="60" x2="980" y2="60"/>
+    <line x1="20" y1="100" x2="980" y2="100"/>
+    <line x1="20" y1="140" x2="980" y2="140"/>
+    <line x1="20" y1="180" x2="980" y2="180"/>
+    <line x1="20" y1="220" x2="980" y2="220"/>
+  </g>
+
+  <!-- header tab -->
+  <rect x="36" y="26" width="270" height="30" rx="4" fill="url(#tabGrad)"/>
+  <text x="171" y="47" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="800" font-style="italic" fill="#FFFFFF" letter-spacing="1">SECRET IDENTITY FILE</text>
+
+  <circle cx="330" cy="41" r="5" fill="#22C55E">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="342" y="46" font-family="Consolas, monospace" font-size="12" fill="#94A3B8">ACTIVE</text>
+
+  <!-- rows -->
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <rect x="40" y="76" width="7" height="7" fill="#E4212B"/>
+    <text x="58" y="83" font-size="12.5" font-weight="700" fill="#7DD3FC" letter-spacing="0.5">ROLE</text>
+    <text x="58" y="102" font-size="15" fill="#F1F5F9">Informatics Student &amp; Full Stack Developer</text>
+
+    <rect x="40" y="122" width="7" height="7" fill="#2563EB"/>
+    <text x="58" y="129" font-size="12.5" font-weight="700" fill="#7DD3FC" letter-spacing="0.5">INTERNSHIP</text>
+    <text x="58" y="148" font-size="15" fill="#F1F5F9">Divisi Teknologi &amp; Digitalisasi, Bank Nagari</text>
+
+    <rect x="40" y="168" width="7" height="7" fill="#E4212B"/>
+    <text x="58" y="175" font-size="12.5" font-weight="700" fill="#7DD3FC" letter-spacing="0.5">BUILDING</text>
+    <text x="58" y="194" font-size="15" fill="#F1F5F9">Sistem Project Management (end-to-end workflow)</text>
+
+    <rect x="40" y="214" width="7" height="7" fill="#2563EB"/>
+    <text x="58" y="221" font-size="12.5" font-weight="700" fill="#7DD3FC" letter-spacing="0.5">LEARNING</text>
+    <text x="58" y="240" font-size="15" fill="#F1F5F9">AI/ML Engineering • Software Architecture • Data Pipelines</text>
+
+    <rect x="560" y="76" width="7" height="7" fill="#E4212B"/>
+    <text x="578" y="83" font-size="12.5" font-weight="700" fill="#7DD3FC" letter-spacing="0.5">GOAL</text>
+    <text x="578" y="102" font-size="15" fill="#F1F5F9">Menjadi Software Engineer Profesional</text>
+
+    <rect x="560" y="122" width="7" height="7" fill="#2563EB"/>
+    <text x="578" y="129" font-size="12.5" font-weight="700" fill="#7DD3FC" letter-spacing="0.5">STATUS</text>
+    <text x="578" y="148" font-size="15" fill="#F1F5F9" filter="url(#softGlow)">Open to collaboration 🕸️</text>
+  </g>
+</svg>

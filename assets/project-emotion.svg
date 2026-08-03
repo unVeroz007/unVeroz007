@@ -1,0 +1,50 @@
+<svg width="100%" height="170" viewBox="0 0 1000 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#160A16"/>
+      <stop offset="55%" stop-color="#0B0F22"/>
+      <stop offset="100%" stop-color="#05060C"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4D4D"/>
+      <stop offset="100%" stop-color="#C4121C"/>
+    </linearGradient>
+    <radialGradient id="burstGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF4D4D"/>
+      <stop offset="100%" stop-color="#C4121C"/>
+    </radialGradient>
+    <filter id="bigBlur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+    <pattern id="halftone" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="1.1" fill="#38BDF8" opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="170" rx="8" fill="url(#bgGrad)"/>
+  <circle cx="80" cy="150" r="90" fill="#DC2626" opacity="0.2" filter="url(#bigBlur)"/>
+  <rect x="0" y="0" width="180" height="90" fill="url(#halftone)" opacity="0.45"/>
+
+  <g stroke="#93C5FD" stroke-width="1" opacity="0.18">
+    <path d="M 0 170 L 90 40" fill="none"/>
+    <path d="M 0 170 L 170 60" fill="none"/>
+    <path d="M 0 170 L 40 170" fill="none"/>
+    <path d="M 20 130 Q 70 110 130 120" fill="none"/>
+  </g>
+
+  <g stroke="#38BDF8" stroke-width="1.6" opacity="0.75" fill="none">
+    <path d="M12,26 L12,12 L26,12"/>
+    <path d="M974,12 L988,12 L988,26"/>
+  </g>
+
+  <text x="42" y="63" font-family="'Segoe UI', Arial, sans-serif" font-size="30" font-weight="800" font-style="italic" fill="#1D4ED8" opacity="0.8">SISTEM ANALISIS EMOSI</text>
+  <text x="40" y="60" font-family="'Segoe UI', Arial, sans-serif" font-size="30" font-weight="800" font-style="italic" fill="url(#titleGrad)">SISTEM ANALISIS EMOSI</text>
+
+  <text x="42" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#7DD3FC" letter-spacing="1">BIG DATA PROJECT · DES 2025</text>
+
+  <text x="42" y="140" font-family="Consolas, monospace" font-size="13" fill="#94A3B8">Linear SVM · 393K+ samples · Streamlit deployment</text>
+
+  <g transform="translate(895,85) scale(0.95)">
+    <polygon points="0.0,-44.0 -7.9,-26.9 -23.8,-37.0 -21.2,-18.3 -40.0,-18.3 -27.7,-4.0 -43.6,6.3 -25.5,11.6 -33.3,28.8 -15.1,23.6 -12.4,42.2 -0.0,28.0 12.4,42.2 15.1,23.6 33.3,28.8 25.5,11.6 43.6,6.3 27.7,-4.0 40.0,-18.3 21.2,-18.3 23.8,-37.0 7.9,-26.9" fill="url(#burstGrad)" stroke="#FFF7ED" stroke-width="1.5"/>
+    <text x="0" y="-2" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="800" fill="#FFFFFF">94.43%</text>
+    <text x="0" y="12" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#FFE4E6">AKURASI</text>
+  </g>
+</svg>

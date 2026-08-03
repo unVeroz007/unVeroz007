@@ -1,0 +1,49 @@
+<svg width="100%" height="170" viewBox="0 0 1000 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060C"/>
+      <stop offset="55%" stop-color="#0B0F22"/>
+      <stop offset="100%" stop-color="#0A1730"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <radialGradient id="burstGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </radialGradient>
+    <filter id="bigBlur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+    <pattern id="halftone" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="1.1" fill="#E4212B" opacity="0.28"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="170" rx="8" fill="url(#bgGrad)"/>
+  <circle cx="920" cy="20" r="90" fill="#2563EB" opacity="0.25" filter="url(#bigBlur)"/>
+  <rect x="820" y="0" width="180" height="90" fill="url(#halftone)" opacity="0.4"/>
+
+  <g stroke="#FCA5A5" stroke-width="1" opacity="0.15">
+    <path d="M 1000 170 L 910 40" fill="none"/>
+    <path d="M 1000 170 L 830 60" fill="none"/>
+    <path d="M 870 130 Q 930 110 980 125" fill="none"/>
+  </g>
+
+  <g stroke="#38BDF8" stroke-width="1.6" opacity="0.75" fill="none">
+    <path d="M12,26 L12,12 L26,12"/>
+    <path d="M974,12 L988,12 L988,26"/>
+  </g>
+
+  <text x="147" y="63" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="800" font-style="italic" fill="#C4121C" opacity="0.8">APLIKASI PREDIKSI CUACA</text>
+  <text x="145" y="60" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="800" font-style="italic" fill="url(#titleGrad)">APLIKASI PREDIKSI CUACA</text>
+
+  <text x="42" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#FCA5A5" letter-spacing="1">BIG DATA PROJECT · NOV–DES 2025</text>
+
+  <text x="42" y="140" font-family="Consolas, monospace" font-size="13" fill="#94A3B8">Random Forest · 96K+ rows · team of 5</text>
+
+  <g transform="translate(895,85) scale(0.95)">
+    <polygon points="0.0,-44.0 -7.9,-26.9 -23.8,-37.0 -21.2,-18.3 -40.0,-18.3 -27.7,-4.0 -43.6,6.3 -25.5,11.6 -33.3,28.8 -15.1,23.6 -12.4,42.2 -0.0,28.0 12.4,42.2 15.1,23.6 33.3,28.8 25.5,11.6 43.6,6.3 27.7,-4.0 40.0,-18.3 21.2,-18.3 23.8,-37.0 7.9,-26.9" fill="url(#burstGrad)" stroke="#EFF6FF" stroke-width="1.5"/>
+    <text x="0" y="-2" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">R² .998</text>
+    <text x="0" y="12" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="700" fill="#DBEAFE">MODEL FIT</text>
+  </g>
+</svg>
